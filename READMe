@@ -1,0 +1,27 @@
+# Asfiya Travel 🌍
+
+HTML, CSS ve JavaScript kullanılarak hazırlanmış, seyahat
+destinasyonlarını ve deneyimlerini tanıtan bir web arayüzü.
+
+## ✨ Özellikler
+
+- Sayfa kaydırıldığında görünümü değişen sabit üst menü
+- Menü bağlantılarıyla bölümlere yumuşak geçiş
+- Seyahat destinasyonları ve deneyim kartları
+- Kartlar üzerinde hover animasyonları
+- Arama simgesine tıklayınca açılan arama alanı
+- Farklı ekran boyutlarına uyarlanan tasarım
+
+> Arama, rezervasyon ve seyahat planlama işlemleri şu anda
+> yalnızca bilgilendirme mesajı gösterir.
+> Gerçek arama veya rezervasyon sistemi bağlı değildir.
+
+## 🛠️ Kullanılan Teknolojiler
+
+- HTML5
+- CSS3
+- JavaScript
+- Font Awesome
+- Google Fonts
+
+![Proje demosu](image/travel-agency.gif)

@@ -1,3 +1,3 @@
 # travel-agency
 # Asfiya-Travel
-![Uploading image/travel-agency.gif…]()
+![Proje önizlemesi](image/travel-agency.gif)
